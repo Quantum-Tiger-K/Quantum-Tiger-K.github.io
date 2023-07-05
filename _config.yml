@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/ci.png
+avatar: assets/img/QTK_CI_white.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
